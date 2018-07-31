@@ -1,0 +1,27 @@
+# dependencies
+
+node_modules
+
+
+# logs
+
+npm-debug.log
+
+
+# Nuxt build
+
+.nuxt
+
+
+# Nuxt generate 
+dist
+
+
+# IDE
+
+.idea
+
+
+acme3_hdi_settings.json
+
+firebase.js
